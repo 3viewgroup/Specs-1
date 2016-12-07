@@ -23,6 +23,10 @@
     "CFNetwork",
     "Security",
     "Firebase",
+    "Firebase/Database",
+    "Firebase/Storage",
+    "Firebase/Core",
+    "Firebase/Messaging",
     "SystemConfiguration"
   ],
   "libraries": [
